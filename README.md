@@ -1,0 +1,1 @@
+Base for creating virtual reality experiences on the Web using A-Frame.
